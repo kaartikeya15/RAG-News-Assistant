@@ -13,12 +13,12 @@ This is a user-friendly news research tool designed for effortless information r
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   https://github.com/kaartikeya15/RAG-News-Assistant.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
   cd RAG-News-Assistant
@@ -28,7 +28,7 @@ This is a user-friendly news research tool designed for effortless information r
 ```bash
   pip install -r requirements.txt
 ```
-4.Set up your OpenRouter API key by creating a .env file in the project root and adding your API
+4. Set up your OpenRouter API key by creating a .env file in the project root and adding your API
 
 ```bash
   OPENROUTER_API_KEY="enter your_openrouter_api_key_here"
@@ -41,7 +41,7 @@ streamlit run main.py
 
 ```
 
-2.The web app will open in your browser.
+2. The web app will open in your browser.
 
 - On the sidebar, you can input URLs directly.
 
